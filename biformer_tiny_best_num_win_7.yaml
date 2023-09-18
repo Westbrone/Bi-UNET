@@ -1,0 +1,7 @@
+MODEL:
+  TYPE: bi
+  NAME: biformer_tiny_best
+  PRETRAIN_CKPT: "biformer_tiny_best.pth"
+  bi:
+    DEPTHS: [ 2, 2, 2, 2 ]
+    DECODER_DEPTHS: [ 2, 2, 2]
