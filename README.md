@@ -7,6 +7,6 @@ paper:Zhu L, Wang X, Ke Z, et al. BiFormer: Vision Transformer with Bi-Level Rou
 
 AND For segmented network architecture, we use the most classic :Swin-unet
 
-![Image text]([https://github.com/Westbrone/Bi-UNET/blob/main/Model.png])
+![Image text](https://github.com/Westbrone/Bi-UNET/blob/main/Model.png)
 
 
